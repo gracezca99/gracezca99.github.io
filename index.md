@@ -1,3 +1,3 @@
 # Grace's main page
 
-![](lion2.png)
+![](images/lion2.png)
