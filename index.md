@@ -43,7 +43,7 @@ Upgraded to Silver Group from Bronze Group at USACO (USA Computing Olympiad)
 Second place in cheerleading at an International youth gymnastics competition in Baden-Württemberg, Germany. 2017
 
 ## Costume Design
-![](Grace-art1.jpeg)
-![](Grace-art2.jpeg)
-![](Grace-art3.jpeg)
+![](images/Grace-art1.jpeg)
+![](images/Grace-art2.jpeg)
+![](images/Grace-art3.jpeg)
 
