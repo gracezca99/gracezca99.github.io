@@ -44,5 +44,8 @@ Second place in cheerleading at an International youth gymnastics competition in
 
 ## Costume Design
 
-![](images/Grace-art1.jpeg) | ![](images/Grace-art2.jpeg) | ![](images/Grace-art3.jpeg)
-
+<p float="left">
+  <img src="images/Grace-art1.jpeg" width="200" />
+  <img src="images/Grace-art2.jpeg" width="200" /> 
+  <img src="images/Grace-art3.jpeg" width="200" />
+</p>
