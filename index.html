@@ -14,8 +14,14 @@
   <link rel="canonical" href="http://gracezhang.com/" />
   <meta property="og:url" content="http://gracezhang.com/" />
   <meta property="og:site_name" content="Grace Zhang's Homepage" />
-  <link rel="stylesheet" href="bootstrap.css">
+
+<script type="application/ld+json">
+{"description":"Shouwang Charity’s Homepage","url":"https://www.shouwangcharity.com/","headline":"Shouwang Charity","@type":"WebSite","name":"Shouwang Charity","@context":"https://schema.org"}</script>
+
+  <link rel="stylesheet" href="bootstrap/bootstrap.css">
   <link rel="stylesheet" href="main.css">
+  <script src="bootstrap/jquery.min.js">
+  <script src="bootstrap/bootstrap.bundle.min.js"></script>
 </head>
 <body>
   <div class="body-background" style="opacity:0.95;background-image: url(images/background.jpeg);"></div>
@@ -42,6 +48,13 @@
         </ul>
       </div>
     </div>
+    <script>
+      $(document).ready(function(){
+          $('.navbar-toggler').click(function() {
+               $('#navbarSupportedContent').toggle("slide");
+          });
+      });
+    </script>
   </nav>
 
   <!--- the body --->
