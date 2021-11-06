@@ -45,6 +45,7 @@
     });
 
     $( document ).ready(function(){
+      $(window).trigger('resize');
       $('.expander').click(function(){
         $(this).toggleClass('expanded');
         adjust_height($(this), 500);
