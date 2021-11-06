@@ -42,6 +42,9 @@
           $(this).show(500);
         }
       });
+    });
+
+    $( document ).ready(function(){
       $('.expander').click(function(){
         $(this).toggleClass('expanded');
         adjust_height($(this));
