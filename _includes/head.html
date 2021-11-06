@@ -32,9 +32,9 @@
       });
       $('.expander').click(function(){
         var parent = $(this).parent();
-        console.log("max-height:", parent.css("max-height"), "init-height", parent.data("init-height"));
+        console.log("max-height:", parent.css("max-height"), "init-height", parent.data("init-height"), parent.css("max-height") == parent.data("init-height"));
         parent.animate({
-           'max-height': ((parent.css("max-height") == parent.data("init-height")) ? "none" : parent.data("init-height"))
+           'max-height': ((parent.css("max-height") == parent.data("init-height")) ? "10000px" : parent.data("init-height"))
         }, 500);
         $(this).toggleClass('expanded');
       });
