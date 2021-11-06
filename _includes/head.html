@@ -22,25 +22,30 @@
   <script src="/bootstrap/bootstrap.bundle.min.js"></script>
 
   <script>
+    function adjust_height(expander) {
+      if (expander.hasClass("expanded"))
+      var parent = expander.parent();
+      parent.animate({
+           'max-height': parent.data(expander.hasClass("expanded") ? "real-height" : "init-height")
+        }, 500);
+    }
     $( window ).resize(function() {
       $('.expander').each(function(){
         var parent = $(this).parent();
-        var h1 = parent.height();
-        parent.data("ori-height", h1 + "px");
-        parent.css("max-height", parent.data("init-height"));
-        var h2 = parent.height();
-        if (h1 == h2) {
+        // remove max-height to get real height
+        var real_height = parent.css("max-height", "none").height();
+        parent.data("real-height", real_height + "px");
+        adjust_height($(this));
+        
+        if (real_height <= parseInt(parent.data("init-height"))) {
           $(this).hide(500);
         } else {
           $(this).show(500);
         }
       });
       $('.expander').click(function(){
-        var parent = $(this).parent();
-        parent.animate({
-           'max-height': parent.data(parent.css("max-height") == parent.data("init-height") ? "ori-height" : "init-height")
-        }, 500);
         $(this).toggleClass('expanded');
+        adjust_height($(this));
       });
     });
   </script>
