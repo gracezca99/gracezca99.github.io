@@ -24,16 +24,16 @@
   <script>
     $( document ).ready(function() {
       $('.expander').each(function(){
-        var parent = $(this).parent();
+        var $parent = $(this).parent();
         var h1 = parent.height();
-        parent.style.maxHeight = parent.dataset.initHeight;
-        var h2 = parent.height();
+        $parent.style.maxHeight = $parent.dataset.initHeight;
+        var h2 = $parent.height();
         if (h1 != h2) $(this).fadeOut();
       });
       $('.expander').click(function(){
-        var parent = $(this).parent();
-        parent.animate({
-           'max-height': ((parent.style.maxHeight == parent.dataset.initHeight) ? '' : parent.dataset.initHeight)
+        var $parent = $(this).parent();
+        $parent.animate({
+           'max-height': (($parent.style.maxHeight == $parent.dataset.initHeight) ? '' : $parent.dataset.initHeight)
         }, 500);
         $(this).toggleClass('expanded');
       });
