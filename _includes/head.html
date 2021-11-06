@@ -28,7 +28,7 @@
            'max-height': parent.data(expander.hasClass("expanded") ? "real-height" : "init-height")
         }, speed);
     }
-    $( window ).resize(function() {
+    function reset_expander() {
       $('.expander').each(function(){
         var parent = $(this).parent();
         // remove max-height to get real height
@@ -42,10 +42,12 @@
           $(this).show();
         }
       });
-    });
+    }
+    
+    $( window ).resize(reset_expander);
 
     $( document ).ready(function(){
-      $(window).trigger('resize');
+      reset_expander();
       $('.expander').click(function(){
         $(this).toggleClass('expanded');
         adjust_height($(this), 500);
