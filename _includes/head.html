@@ -31,7 +31,7 @@
         if (h1 != h2) $(this).fadeOut();
       });
       $('.expander').click(function(){
-        var $parent = (this).parent();
+        var parent = $(this).parent();
         parent.animate({
            'max-height': ((parent.css("max-height") == parent.data("init-height")) ? '' : parent.data("init-height"))
         }, 500);
