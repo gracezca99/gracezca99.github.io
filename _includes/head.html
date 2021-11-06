@@ -26,6 +26,7 @@
       $('.expander').each(function(){
         var parent = $(this).parent();
         var h1 = parent.height();
+        parent.data("ori-height", h1 + "px");
         parent.css("max-height", parent.data("init-height"));
         var h2 = parent.height();
         if (h1 == h2) $(this).fadeOut();
@@ -34,7 +35,7 @@
         var parent = $(this).parent();
         console.log("max-height:", parent.css("max-height"), "init-height", parent.data("init-height"), parent.css("max-height") == parent.data("init-height"));
         parent.animate({
-           'max-height': ((parent.css("max-height") == parent.data("init-height")) ? "10000px" : parent.data("init-height"))
+           'max-height': parent.data(parent.css("max-height") == parent.data("init-height") ? "ori-height" : "init-height")
         }, 500);
         $(this).toggleClass('expanded');
       });
