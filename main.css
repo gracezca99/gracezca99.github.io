@@ -68,25 +68,25 @@
     color: #FFFFFF;
 }
 
-.expendable-container{
+.expandable-container{
     overflow: hidden;
     max-height: attr(init-height px);;
     position: relative;
     border:1px solid #999;
 }
 
-.expendable-container.expanded{
+.expandable-container.expanded{
     max-height:none;
 }
 
-.expender{
+.expander{
     position: absolute;
     right:0;
     bottom:0;
     height:20px;
     background-image: url(/images/down_arrow.png);
 }
-.expender.expanded{
+.expander.expanded{
     background-image: url(/images/up_arrow.png);
 }
 

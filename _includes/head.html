@@ -23,12 +23,12 @@
 
   <script>
     $( document ).ready(function() {
-      $('.expender').each(function(){
+      $('.expander').each(function(){
         var h1 = $(this).parent().toggleClass('expanded').height();
         var h2 = $(this).parent().toggleClass('expanded').height();
         if (h1 != h2) $(this).fadeOut();
       });
-      $('.expender').click(function(){
+      $('.expander').click(function(){
         $(this).parent().toggleClass('expanded', 1000);
         $(this).toggleClass('expanded');
       });
