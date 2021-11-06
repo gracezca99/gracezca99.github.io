@@ -25,7 +25,7 @@
     $( document ).ready(function() {
       $('.expander').each(function(){
         var $parent = $(this).parent();
-        var h1 = parent.height();
+        var h1 = $parent.height();
         $parent.style.maxHeight = $parent.dataset.initHeight;
         var h2 = $parent.height();
         if (h1 != h2) $(this).fadeOut();
