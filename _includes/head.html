@@ -28,7 +28,7 @@
         var h1 = parent.height();
         parent.css("max-height", parent.data("init-height"));
         var h2 = parent.height();
-        if (h1 != h2) $(this).fadeOut();
+        if (h1 == h2) $(this).fadeOut();
       });
       $('.expander').click(function(){
         var parent = $(this).parent();
