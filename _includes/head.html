@@ -29,11 +29,14 @@
         parent.data("ori-height", h1 + "px");
         parent.css("max-height", parent.data("init-height"));
         var h2 = parent.height();
-        if (h1 == h2) $(this).fadeOut();
+        if (h1 == h2) {
+          $(this).hide(500);
+        else {
+          $(this).show(500);
+        }
       });
       $('.expander').click(function(){
         var parent = $(this).parent();
-        console.log("max-height:", parent.css("max-height"), "init-height", parent.data("init-height"), parent.css("max-height") == parent.data("init-height"));
         parent.animate({
            'max-height': parent.data(parent.css("max-height") == parent.data("init-height") ? "ori-height" : "init-height")
         }, 500);
