@@ -23,7 +23,6 @@
 
   <script>
     function adjust_height(expander) {
-      if (expander.hasClass("expanded"))
       var parent = expander.parent();
       parent.animate({
            'max-height': parent.data(expander.hasClass("expanded") ? "real-height" : "init-height")
