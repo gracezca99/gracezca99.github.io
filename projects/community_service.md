@@ -10,7 +10,7 @@ layout: default
 I love gymnastics since I was in kindergarten, and when I moved to China I joined the school's cheerleading team, and soon I became the team leader. We did performance and competition within China and internationaly, like Frankfurt, Taipei etc. 
 
 We also performed for special needs kids, here are some of the pictures:  
-<div class="expandable-container" init-height=100>
+<div class="expandable-container" data-init-height="300px">
     <img src="/images/community_service1.jpeg" width="200">
     <img src="/images/community_service2.jpeg" width="200">
     <img src="/images/community_service3.jpeg" width="200">

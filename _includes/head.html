@@ -24,12 +24,17 @@
   <script>
     $( document ).ready(function() {
       $('.expander').each(function(){
-        var h1 = $(this).parent().toggleClass('expanded').height();
-        var h2 = $(this).parent().toggleClass('expanded').height();
+        var parent = $(this).parent();
+        var h1 = parent.height();
+        parent.style.maxHeight = parent.dataset.initHeight;
+        var h2 = parent.height();
         if (h1 != h2) $(this).fadeOut();
       });
       $('.expander').click(function(){
-        $(this).parent().toggleClass('expanded', 1000);
+        var parent = $(this).parent();
+        parent.animate({
+           'max-height': ((parent.style.maxHeight == parent.dataset.initHeight) ? '' : parent.dataset.initHeight)
+        }, 500);
         $(this).toggleClass('expanded');
       });
     });
