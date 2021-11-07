@@ -44,10 +44,10 @@
       });
     }
     
-    $( window ).resize(reset_expander);
-    $( window ).load(reset_expander);
+    $( window ).on("resize", reset_expander);
+    $( window ).on("load", reset_expander);
 
-    $( document ).ready(function(){
+    $( document ).on("ready", function(){
       $('.expander').click(function(){
         $(this).toggleClass('expanded');
         adjust_height($(this), 500);
