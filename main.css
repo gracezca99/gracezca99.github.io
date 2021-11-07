@@ -75,10 +75,11 @@
 
 .expander{
     position: absolute;
-    right:0;
+    left:0;
     bottom:0;
     height:30px;
-    width: 30px;
+    width: 100%;
+    opacity: 0.75;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
