@@ -45,9 +45,9 @@
     }
     
     $( window ).resize(reset_expander);
+    $( window ).load(reset_expander);
 
     $( document ).ready(function(){
-      reset_expander();
       $('.expander').click(function(){
         $(this).toggleClass('expanded');
         adjust_height($(this), 500);
