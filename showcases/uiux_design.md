@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# User Interface and User eXperience
+# User Interface and User Experience
 I love helping other people with design.
 
 
