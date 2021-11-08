@@ -75,15 +75,15 @@ layout: default
 
 <div class="expandable-container" data-init-height="600px">
     <img src="/images/grace-cheerleading.jpeg" width="30%">
-    <img src="/images/grace-cheerleading-group.jpeg" width="45%">
     <img src="/images/grace-cheerleading-cert.jpeg" width="23%">
+    <img src="/images/grace-cheerleading-group.jpeg" width="45%">
     <button class="expander"/>
 </div>
 
 
 
 - 1st place in Hangzhou Yangguang Cheerleading and Jazz competition, China
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aCzi32CnJJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/aCzi32CnJJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Fay School Academic High Honors
 
