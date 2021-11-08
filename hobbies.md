@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Grace Zhang
-My name is Grace Zhang, and I have an elder brother and a younger sister, we all born and raised in California. We relocated to China with my family when I was 9 years old. We spent two years in Hangzhou and two years in Shanghai. Last year, I and my sister moved to Fay School in Massachusetts.
+# Hobbies
 
 ### Academic 
 - Robotic/Technology
@@ -26,6 +25,7 @@ My name is Grace Zhang, and I have an elder brother and a younger sister, we all
   - 2 years experience
   - half year experience of playing tournaments
   - [USA Squash homepage](https://clublocker.com/users/381350/home)
+
  
 - Golf
   - 8 hours per week
@@ -73,7 +73,16 @@ My name is Grace Zhang, and I have an elder brother and a younger sister, we all
 
 - Second place in cheerleading at an International youth gymnastics competition in Baden-Württemberg, Germany. 2017
 
+<div class="expandable-container" data-init-height="600px">
+    <img src="/images/grace-cheerleading.jpeg" width="50%">
+    <img src="/images/grace-cheerleading-cert.jpeg" width="50%">
+    <button class="expander"/>
+</div>
+
+
+
 - 1st place in Hangzhou Yangguang Cheerleading and Jazz competition, China
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aCzi32CnJJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Fay School Academic High Honors
 
