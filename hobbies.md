@@ -74,9 +74,9 @@ layout: default
 - Second place in cheerleading at an International youth gymnastics competition in Baden-Württemberg, Germany. 2017
 
 <div class="expandable-container" data-init-height="600px">
-    <img src="/images/grace-cheerleading.jpeg" width="33%">
-    <img src="/images/grace-cheerleading-group.jpeg" width="33%">
-    <img src="/images/grace-cheerleading-cert.jpeg" width="30%">
+    <img src="/images/grace-cheerleading.jpeg" width="30%">
+    <img src="/images/grace-cheerleading-group.jpeg" width="45%">
+    <img src="/images/grace-cheerleading-cert.jpeg" width="23%">
     <button class="expander"/>
 </div>
 
