@@ -5,7 +5,7 @@ layout: default
 # Playing Squash
 
 My USA squash home page (you need be a USA squash member to see it)
-[https://clublocker.com/users/381350/home]
+<https://clublocker.com/users/381350/home>
 
 #### My rating is 2.6 and this is the rating graph (as on 11/07/2021)
 <img src="/images/squash_rating.png" width="400" />
