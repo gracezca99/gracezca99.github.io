@@ -40,6 +40,7 @@
     width: 100%;
     // height: 132px;
     position: absolute;
+    padding-left: 4px;
     bottom: 0;
 }
 
@@ -48,7 +49,7 @@
 }
 
 .project-name {
-    font-family: Lora;
+    font-family: 'Lora';
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
@@ -59,11 +60,11 @@
 }
 
 .project-description {
-    font-family: Roboto;
+    font-family: Red Hat Display;
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
-    line-height: 18px;
+    font-size: 16px;
+    line-height: 16px;
 
     color: #FFFFFF;
 }

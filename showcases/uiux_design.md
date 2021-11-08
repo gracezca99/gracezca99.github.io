@@ -3,8 +3,10 @@ layout: default
 ---
 
 # User Interface and User eXperience
+I love helping other people with design.
 
-  I love User Interface design.
+
+#### Teaching Teens to Eat Healthy With UI/UX Design.
 
 <div class="expandable-container" data-init-height="600px">
     <img src="/images/uiux-0.png" width="400">
@@ -15,3 +17,5 @@ layout: default
     <img src="/images/uiux-5.png" width="400">
     <button class="expander"/>
 </div>
+
+#### More to come, please check back in December ...
