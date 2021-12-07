@@ -38,7 +38,7 @@ a:active {
 }
 
 .site-description {
-    width: 40%;
+    width: 250px;
     margin-bottom : 20px;
     background: transparent;
 }
@@ -139,11 +139,12 @@ body {
     margin-bottom: 4px;
 }
 
-@media (max-width: 991px)
-.row-2 {
+@media (max-width: 991px) {
+  .row-2 {
     width: auto;
     margin-right: 0;
     margin-left: 0;
+  }
 }
 
 .col-left {
