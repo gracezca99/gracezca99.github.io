@@ -38,6 +38,7 @@ a:active {
 }
 
 .site-description {
+    width: 40%;
     margin-bottom : 20px;
     background: transparent;
 }
@@ -162,8 +163,9 @@ body {
 
 .img-div {
     height: 350px;
-    width: 100%
+    width: 100%;
     background-position: 50% 50%;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
