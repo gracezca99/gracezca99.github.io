@@ -131,3 +131,31 @@ h4 {
 body {
     font-family: Red Hat Display;
 }
+
+
+.row-2 {
+    max-width: 800px;
+    margin-bottom: 4px;
+}
+
+@media (max-width: 991px)
+.row-2 {
+    width: auto;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.col-left {
+    padding-right: 5px;
+    padding-left: 0;
+    width: 50%;
+    position: relative;
+    float: left;
+}
+.col-right {
+    padding-right: 0;
+    padding-left: 5px;
+    width: 50%;
+    position: relative;
+    float: left;
+}
