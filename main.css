@@ -139,14 +139,6 @@ body {
     margin-bottom: 4px;
 }
 
-@media (max-width: 991px) {
-  .row-2 {
-    width: auto;
-    margin-right: 0;
-    margin-left: 0;
-  }
-}
-
 .col-left {
     padding-right: 5px;
     padding-left: 0;
@@ -164,9 +156,27 @@ body {
 
 .img-div {
     height: 350px;
-    width: 100%;
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 991px) {
+  .row-2 {
+    width: auto;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .col-left {
+    padding-right: 0;
+    width: 100%;
+  }
+  .col-right {
+    padding-left: 0;
+    width: 100%;
+  }
+  .img-div {
+    width: 100%;
+  }
 }
 
