@@ -180,9 +180,9 @@ body {
   }
 }
 
-@media (min-width: 991px) {
+@media (min-width: 576px) {
   .container {
-    max-width: 950px;
+    max-width: 540px;
   }
 }
 @media (min-width: 768px) {
@@ -190,8 +190,8 @@ body {
     max-width: 720px;
   }
 }
-@media (min-width: 576px) {
+@media (min-width: 991px) {
   .container {
-    max-width: 540px;
+    max-width: 950px;
   }
 }
