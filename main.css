@@ -180,3 +180,18 @@ body {
   }
 }
 
+@media (min-width: 991px) {
+  .container {
+    max-width: 950px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
