@@ -4,7 +4,7 @@ layout: default
 
 # Advanced 3D Design
 
-One of my favoite classes is Advanced 3D Design. Here are some things I worked on.
+One of my favorite classes is Advanced 3D Design. Here are some things I worked on.
 
 ### Brand
 I worked on developing a brand that represents me.
