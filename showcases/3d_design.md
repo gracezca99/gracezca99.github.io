@@ -13,7 +13,7 @@ I worked on developing a brand that represents me.
 #### Variations in Illustrator
 (image)
 #### Final Logo
-<img src="favicon.svg" width="80%">
+<img src="/favicon.svg" width="80%">
 
 #### Fonts
 I found the fonts on Google Fonts (https://fonts.google.com/). I wanted to use one serif and one sans-serif font.
