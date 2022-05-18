@@ -5,14 +5,24 @@ top_title: Brand Identity
 top_description: What represents me?
 ---
 
-<b>Chapters:</b><br/> 
-Brand Analysis Logo Design Style Guide
-Copy
+<div class="row-2">
+  <div class="content-box col-left">
+    <b>Chapters:</b><br/> 
+    <a href="brand-analysis">Brand Analysis</a> 
+    <a href="logo-design">Logo Design</a>
+    <a href="style-guide">Style Guide</a>
+  </div>
+  <div class="content-box col-right">
+    <p>In the Brand Identity unit, we learned what brand identity is, then we applied what we learned to make our own brand that represents us.</p>
+    <p>The first step was to learn what a brand represents. I started by doing a brand analysis. Then, I designed a logo, and finally, the style guide.</p>
+  </div>
 
 #### Brand Analysis
 I chose to do a brand analysis about the logo of US Open. I analyzed both of their new logo and their old logo. Then, I compared them and analyzed why the new logo was better.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToPB2VHNuItphcVU1PnOeHIejEgRBnAoXVb44nUR4bqW4LFxTS1qN7pJoRNDm9gBUouLFTWQlTliLu/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div style="width: 100%;padding-top: 60%; position: relative;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToPB2VHNuItphcVU1PnOeHIejEgRBnAoXVb44nUR4bqW4LFxTS1qN7pJoRNDm9gBUouLFTWQlTliLu/embed?start=false&loop=false&delayms=5000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0;left:0; width: 100%; height: 100%;"></iframe>
+</div>
 
 #### Logo Design
 I wanted to design a logo that represents my idea of a simple and playful design. I started brainstorming my logo by thinking of any arrangement of my name and initials. 
