@@ -6,16 +6,17 @@ top_description: What represents me?
 ---
 
 <div class="row-2">
-  <div class="content-box col-left">
+  <div style="position: relative; float: left;">
     <b>Chapters:</b><br/> 
     &nbsp; &nbsp; <a href="brand-analysis">Brand Analysis</a><br/> 
     &nbsp; &nbsp; <a href="logo-design">Logo Design</a><br/>
     &nbsp; &nbsp; <a href="style-guide">Style Guide</a><br/>
   </div>
-  <div class="content-box col-right">
+  <div style="position: relative; float: left;">
     <p>In the Brand Identity unit, we learned what brand identity is, then we applied what we learned to make our own brand that represents us.</p>
     <p>The first step was to learn what a brand represents. I started by doing a brand analysis. Then, I designed a logo, and finally, the style guide.</p>
   </div>
+</div>
 
 #### Brand Analysis
 I chose to do a brand analysis about the logo of US Open. I analyzed both of their new logo and their old logo. Then, I compared them and analyzed why the new logo was better.
