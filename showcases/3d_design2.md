@@ -5,8 +5,7 @@ layout: default
 
 # Advanced 3D Design
 
-{{< rawhtml >}}
-    <div class="container page-content">
+<div class="container page-content">
       <div class="row-2">
         <div class="content-box col-left">
          <a href="/showcases/3d_design_brand_identity.html">
@@ -49,6 +48,5 @@ layout: default
         </div>
       </div>
 
-    </div>
+</div>
 
-{{< /rawhtml >}}
