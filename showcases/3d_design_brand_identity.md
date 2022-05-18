@@ -8,9 +8,9 @@ top_description: What represents me?
 <div class="row-2">
   <div class="content-box col-left">
     <b>Chapters:</b><br/> 
-    <a href="brand-analysis">Brand Analysis</a> 
-    <a href="logo-design">Logo Design</a>
-    <a href="style-guide">Style Guide</a>
+    &nbsp; &nbsp; <a href="brand-analysis">Brand Analysis</a><br/> 
+    &nbsp; &nbsp; <a href="logo-design">Logo Design</a><br/>
+    &nbsp; &nbsp; <a href="style-guide">Style Guide</a><br/>
   </div>
   <div class="content-box col-right">
     <p>In the Brand Identity unit, we learned what brand identity is, then we applied what we learned to make our own brand that represents us.</p>
