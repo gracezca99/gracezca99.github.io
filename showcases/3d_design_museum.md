@@ -1,6 +1,6 @@
 ---
 layout: with_top_image
-top_image: /images/spam.jpeg
+top_image: /images/spam.jpg
 top_title: Hormel Museum Project
 top_description: Designing a museum
 ---
