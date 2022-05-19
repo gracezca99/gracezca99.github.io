@@ -19,6 +19,12 @@ a:active {
   text-decoration: underline;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 
 .grid-container {
     display: grid;
