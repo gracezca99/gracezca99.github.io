@@ -29,7 +29,7 @@ layout: default
 
       <div class="row-2">
         <div class="content-box col-left">
-         <a href="/showcases/3d_design_hormel.html">
+         <a href="/showcases/3d_design_museum.html">
           <div class="img-div" style="background-image: url(/images/museum.heic);"></div>
           <div class="content-title">
             <p class="project-name">Hormel Museum</p>
