@@ -1,8 +1,8 @@
 ---
 layout: with_top_image
-top_image: /images/famous-logo.jpeg
-top_title: Bose Accessory
-top_description: XXXXXXXX
+top_image: /images/Bose_Logo.jpeg
+top_title: Bose Project
+top_description: Making accessories for Bose
 ---
 
 <div class="clearfix">
