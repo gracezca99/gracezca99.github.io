@@ -1,5 +1,27 @@
+---
+layout: with_top_image
+top_image: /images/famous-logo.jpeg
+top_title: Monument Project
+top_description: Remebering Fay History
+---
+
+<div class="clearfix">
+  <div style="float: left; padding:15px">
+    <b>Chapters:</b><br/> 
+    &nbsp; &nbsp; <a href="#brand-analysis">Research</a><br/> 
+    &nbsp; &nbsp; <a href="#logo-design">Brainstorm</a><br/>
+    &nbsp; &nbsp; <a href="#style-guide">Design Sheets</a><br/>
+    &nbsp; &nbsp; <a href="#style-guide">Building</a><br/>
+  </div>
+  <div style="float: left; padding:15px">
+    <p>The monument project was the first project where I went through the design process to build something physical.
+</p>
+    <p>I started doing research about existing monuments, brainstormed what I would be memorializing, and afterwards, I designed an buit a prototype.</p>
+  </div>
+</div>
+<br/>
+
 #### Research
-First, I made a mood board of my research of existing monuments to get a basic idea of what I would be building.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2u9y0thl7Ym2kVz29GbFu16hKXoh77PEJWisz9wOnNBnAzQIAUSEPtaisWvd-cptbxZR2uQMsrLfK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="1949" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
