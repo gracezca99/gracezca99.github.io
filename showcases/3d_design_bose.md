@@ -10,7 +10,7 @@ top_description: XXXXXXXX
     <b>Chapters:</b><br/> 
     &nbsp; &nbsp; <a href="#research">Research</a><br/> 
     &nbsp; &nbsp; <a href="#brainstorm">Brainstorm</a><br/>
-    &nbsp; &nbsp; <a href="#design-assistant">Decision Assistant</a><br/>
+    &nbsp; &nbsp; <a href="#decision-assistant">Decision Assistant</a><br/>
     &nbsp; &nbsp; <a href="#design-sheets">Design Sheets</a><br/>  
     &nbsp; &nbsp; <a href="#prototype">Prototype</a><br/>
     &nbsp; &nbsp; <a href="#presentation">Presentation</a><br/>
