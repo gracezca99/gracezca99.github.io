@@ -8,20 +8,20 @@ I did research on Fay’s history to brainstorm possible events to memorialize. 
 
 Click here to see my brainstorm document
 
-(put /images/monbrainstorm.jpg)
+<img src = "/images/monbrainstorm.jpg">
 
 #### Design Sheets
 I picked three of my favorite ideas and made a design sheet for each idea.
 
-(put /images/flowers.jpeg, /images/fire.jpeg, /images/lib.jpeg)
-(put First Female Students in 1972, Fay Alumni who died in WWI, First Female Students 1942)
+<img src = "/images/flowers.jpeg"><img src = "/images/fire.jpeg"><img src = "/images/lib.jpeg">
+First Female Students in 1972, Fay Alumni who died in WWI, First Female Students 1942
 
 Then, we asked some primany school students for advice for our monuments.
 
 #### Building
 I decided to laser-cut the pieces out of colored plastic. I made made the pieces on Illustrator.
 
-(put /images/monument.heic)
+<img src = "/images/monument.heic">
 
 #### Reflection
-I learned many things through this project such as how to use a laser cutter. To improve the .
+I learned many things through this project such as how to use a laser cutter. Next time, I could make .
