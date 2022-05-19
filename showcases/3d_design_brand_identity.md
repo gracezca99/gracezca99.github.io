@@ -45,7 +45,7 @@ Then, I chose my favorite design and made different versions of it on Illustrato
 
 Finally, I settled on this logo:
 
-(put logo here)
+<img src="/favicon.svg" width="200" height="200">
 
 #### Style Guide
 After I had my logo and two of my main colors, I then looked for colors that fit with the current colors I have. I used the website [coolors.co](https://coolors.co/), and it automatically generates colors that go well together.
