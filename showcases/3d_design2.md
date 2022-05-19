@@ -21,7 +21,7 @@ layout: default
           <div class="img-div" style="background-image: url(/images/monument.heic);"></div>
           <div class="content-title">
             <p class="project-name">Monument Project</p>
-            <p class="project-description">Remembering Fay’s history</p>
+            <p class="project-description">Honoring Fay’s history</p>
           </div>
          </a>
         </div>
