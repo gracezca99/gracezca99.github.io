@@ -33,7 +33,8 @@ We brainstormed what our favorite companies were based off of the research. Afte
 
 #### Design and Prototype
 We decided to make the museum a peanut shape, with different exhibitions such as a life-size Mr. Peanut, a gift shop, and fun facts about Planters.
-<image src = "/images/museum.heic">
+
+<image src= "/images/museum.heic">
 
 #### Presentation
 Finally, after we made the prototypes for the exhibition, my group presented our museum to the SPAM museum. We recieved positive feedback, as well as some areas for improvement.
