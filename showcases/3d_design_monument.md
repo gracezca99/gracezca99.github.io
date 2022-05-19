@@ -2,7 +2,7 @@
 layout: with_top_image
 top_image: /images/famous-logo.jpeg
 top_title: Monument Project
-top_description: Remembering Fay History
+top_description: Honoring Fay History
 ---
 
 <div class="clearfix">
