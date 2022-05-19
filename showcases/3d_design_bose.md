@@ -1,8 +1,8 @@
 ---
 layout: with_top_image
 top_image: /images/famous-logo.jpeg
-top_title: Monument Project
-top_description: Remebering Fay History
+top_title: 3D Design Bose
+top_description: XXXXXXXX
 ---
 
 <div class="clearfix">
