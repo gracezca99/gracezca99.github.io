@@ -2,7 +2,7 @@
 layout: with_top_image
 top_image: /images/famous-logo.jpeg
 top_title: Hormel Museum
-top_description: asdf
+top_description: A Museum for Hormel Foods company
 ---
 <div class="clearfix">
   <div style="float: left; padding:15px">
