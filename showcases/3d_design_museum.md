@@ -1,8 +1,8 @@
 ---
 layout: with_top_image
-top_image: /images/famous-logo.jpeg
-top_title: Hormel Museum
-top_description: A Museum for Hormel Foods company
+top_image: /images/spam.jpeg
+top_title: Hormel Museum Project
+top_description: Designing a museum
 ---
 <div class="clearfix">
   <div style="float: left; padding:15px">
