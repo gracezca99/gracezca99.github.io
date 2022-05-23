@@ -23,8 +23,8 @@ top_description: Honoring Fay's History
 
 #### Research
 
-<div style="width: 100%;padding-top: 200%; position: relative;">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2u9y0thl7Ym2kVz29GbFu16hKXoh77PEJWisz9wOnNBnAzQIAUSEPtaisWvd-cptbxZR2uQMsrLfK/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0;left:0; width: 100%; height: 100%;"></iframe>
+<div style="width: 100%;padding-top: calc(200% + 36px); position: relative;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2u9y0thl7Ym2kVz29GbFu16hKXoh77PEJWisz9wOnNBnAzQIAUSEPtaisWvd-cptbxZR2uQMsrLfK/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0;left:0; width: 100%; height: 100%;"></iframe>
 </div>
 
 #### Brainstorm

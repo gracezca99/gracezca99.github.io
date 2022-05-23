@@ -29,7 +29,7 @@ The SPAM museum gave us a virtual tour and gave us tips on how to make an engagi
 
 #### Brainstorm
 We brainstormed what our favorite companies were based off of the research. After some discussion, we chose to make a Planters museum. We also brainstormed what exhibitions to include in the museum. To get inspiration on how to make it, we searched the web for ideas and made a mood board.
-<div style="width: 100%;padding-top: 60%; position: relative;">
+<div style="width: 100%;padding-top: calc(56.25% + 36px); position: relative;">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDLoyE9i6x44X7a7UT2WRAdFNEkrrDpIamszWEC1bOgy-PPoLg2VliGo9pyff1mex8rdT48oG4N3c2/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0;left:0; width: 100%; height: 100%;"></iframe>
 </div>
 
@@ -40,6 +40,6 @@ We decided to make the museum a peanut shape, with different exhibitions such as
 #### Presentation
 Finally, after we made the prototypes for the exhibition, my group presented our museum to the SPAM museum. We recieved positive feedback, as well as some areas for improvement.
 
-<div style="width: 100%;padding-top: 60%; position: relative;">
+<div style="width: 100%;padding-top: calc(56.25% + 36px); position: relative;">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMUMEZZOetmkZnF0AbPNNAYmV1S9zwmkbmzX10ruphq8pIX-T6vQGBUJ6GlMBnaYLRbv-Z7fAxZSTp/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0;left:0; width: 100%; height: 100%;"></iframe>
 </div>

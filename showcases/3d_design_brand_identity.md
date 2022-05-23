@@ -29,7 +29,7 @@ top_description: What represents me?
 #### Brand Analysis
 I chose to do a brand analysis about the logo of US Open. I analyzed both of their new logo and their old logo. Then, I compared them and analyzed why the new logo was better.
 
-<div style="width: 100%;padding-top: 60%; position: relative;">
+<div style="width: 100%;padding-top: calc(56.25% + 36px); position: relative;">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToPB2VHNuItphcVU1PnOeHIejEgRBnAoXVb44nUR4bqW4LFxTS1qN7pJoRNDm9gBUouLFTWQlTliLu/embed?start=false&loop=false&delayms=5000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0;left:0; width: 100%; height: 100%;"></iframe>
 </div>
 
