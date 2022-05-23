@@ -1,6 +1,6 @@
 ---
 layout: with_top_image
-top_image: /images/Bose_Logo.png
+top_image: /images/bose_top.png
 top_title: Bose Project
 top_description: Making accessories for Bose
 ---

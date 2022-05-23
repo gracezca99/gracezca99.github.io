@@ -12,6 +12,7 @@ top_description: Honoring Fay's History
     &nbsp; &nbsp; <a href="#brainstorm">Brainstorm</a><br/>
     &nbsp; &nbsp; <a href="#design-sheets">Design Sheets</a><br/>
     &nbsp; &nbsp; <a href="#building">Building</a><br/>
+    &nbsp; &nbsp; <a href="#reflection">Reflection</a><br/>
   </div>
   <div style="float: left; padding:15px; width: 70%;">
     <p>The monument project was the first project where I went through the design process to build something physical.
