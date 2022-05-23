@@ -42,7 +42,7 @@ layout: default
           <div class="img-div" style="background-image: url(/images/Bose_Logo.png);"></div>
           <div class="content-title">
             <p class="project-name">Bose Project</p>
-            <p class="project-description">Discription</p>
+            <p class="project-description">Making accessories for Bose</p>
           </div>
          </a>
         </div>
