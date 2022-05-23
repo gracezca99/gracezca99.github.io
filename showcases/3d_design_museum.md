@@ -39,4 +39,7 @@ We decided to make the museum a peanut shape, with different exhibitions such as
 
 #### Presentation
 Finally, after we made the prototypes for the exhibition, my group presented our museum to the SPAM museum. We recieved positive feedback, as well as some areas for improvement.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMUMEZZOetmkZnF0AbPNNAYmV1S9zwmkbmzX10ruphq8pIX-T6vQGBUJ6GlMBnaYLRbv-Z7fAxZSTp/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div style="width: 100%;padding-top: 60%; position: relative;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMUMEZZOetmkZnF0AbPNNAYmV1S9zwmkbmzX10ruphq8pIX-T6vQGBUJ6GlMBnaYLRbv-Z7fAxZSTp/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0;left:0; width: 100%; height: 100%;"></iframe>
+</div>
