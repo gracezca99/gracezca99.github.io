@@ -11,7 +11,6 @@ top_description: What represents me?
     &nbsp; &nbsp; <a href="#brand-analysis">Brand Analysis</a><br/> 
     &nbsp; &nbsp; <a href="#logo-design">Logo Design</a><br/>
     &nbsp; &nbsp; <a href="#style-guide">Style Guide</a><br/>
-    &nbsp; &nbsp; <a href="#reflection">Reflection</a><br/>
   </div>
   <div style="float: left; padding:15px; width: 70%;">
     <p>In the Brand Identity unit, we learned what brand identity is, then we applied what we learned to make our own brand that represents us.</p>
